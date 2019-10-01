@@ -1,0 +1,24 @@
+{
+  "name": "example-node-socket-server",
+  "version": "1.0.0",
+  "description": "A Node socket example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamcxa/example-node-socket-server.git"
+  },
+  "keywords": [
+    "socket"
+  ],
+  "author": "Kent Chen<iamcxa@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamcxa/example-node-socket-server/issues"
+  },
+  "homepage": "https://github.com/iamcxa/example-node-socket-server#readme",
+  "dependencies": {}
+}
